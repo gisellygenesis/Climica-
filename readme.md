@@ -1,6 +1,6 @@
-laboratório BioTest
+Laboratório BioTest
 
-Cliníca médica
+
 
 ---------------------------------
 
