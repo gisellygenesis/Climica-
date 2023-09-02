@@ -1,5 +1,4 @@
-i
-# meu-primeiro-projeto
+laboratório BioTest
 
 Cliníca médica
 
