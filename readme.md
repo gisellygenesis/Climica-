@@ -4,8 +4,10 @@ Laboratório BioTest
 
 ---------------------------------
 
-1- Pagina inicial
-2- Tela de login
-3- Lista de exames
-4- Agendamentos
-5- Consulta de agendamentos
+
+ 
+* Pagina inicial
+* Tela de login
+* Lista de exames
+* Agendamentos
+* Consulta de agendamentos
