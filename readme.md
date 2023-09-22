@@ -11,3 +11,9 @@ Laboratório BioTest
 * Lista de exames
 * Agendamentos
 * Consulta de agendamentos
+
+![Imagem](Diagrama%20de%20uso.png)
+![Imagem](Tela%20de%20inicio.png)
+![Imagem](Tela%20de%20login.png)
+![Imagem](Tela%20de%20cadastro.png)
+![Imagem](Exames%20ou%20agendamentos.png)
