@@ -1,0 +1,148 @@
+/* Reset de estilos padrão do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo do body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f4f9; /* Lilás claro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Estilos para o container principal */
+.limiter {
+    width: 100%;
+    align-items: center;
+    padding: 50px 0;
+    align-items:  center;
+    height: 100vh;
+    margin-left: 34%;
+}
+
+.limiter img {
+    margin-left: 145px;
+    width: 150px;
+}
+
+.container-login100 {
+    width: 100%;
+    max-width: 450px;
+    background: #ffffff; /* Branco */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+   
+}
+
+.wrap-login100 {
+    padding: 60px 50px;
+    
+}
+
+/* Estilos para o formulário de login */
+.login100-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login100-form-title {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 10px; /* Reduzindo o margin para diminuir a caixa */
+    color: #8c7ae6; /* Lilás */
+}
+
+/* Estilos para os rótulos (labels) */
+label {
+    font-size: 14px;
+    color: #8c7ae6; /* Lilás */
+    margin-bottom: 5px;
+    display: block;
+}
+
+/* Estilos para os campos de entrada (inputs) */
+.input100 {
+    font-size: 16px;
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.focus-input100 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 15px;
+    pointer-events: none;
+    transition: 0.5s;
+}
+
+.input100:focus + .focus-input100 {
+    transform: translateY(-30px);
+    font-size: 14px;
+    color: #8c7ae6; /* Lilás */
+}
+
+/* Estilos para o botão de login */
+.login100-form-btn {
+    background: #8c7ae6; /* Lilás */
+    color: #ffffff; /* Branco */
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login100-form-btn:hover {
+    background: #725ecc; /* Lilás mais escuro */
+}
+
+/* Estilos para o link "Sign Up" */
+.txt1 {
+    text-align: center;
+    font-size: 16px;
+}
+
+.txt2 {
+    color: #8c7ae6; /* Lilás */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Estilo do ícone "Eye" */
+.btn-show-pass {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+}
+
+/* Estilos para o dropDownSelect1 (não está no HTML fornecido, mas você pode usá-lo se necessário) */
+#dropDownSelect1 {
+    /* Seus estilos aqui */
+}
+
+
+.container-login100-form-btn{
+    margin-top: 15px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.wrap-input100-validate-input{
+    margin-top: 10px;
+}
+.login100-form-btn a{
+    text-decoration: none;
+    color: white;
+}
